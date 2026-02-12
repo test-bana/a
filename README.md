@@ -29,10 +29,8 @@ RAMMER<br>
 108.181.32.77
 ```
 
-INBOX（astroid）<br>
+INBOX（astroid）(?)<br>
 ```JavaScript
 216.198.79.67
 ```
 
-バクの修正とかは本サイトではします<br>
-(⁠｡⁠•́⁠︿⁠•̀⁠｡⁠)
